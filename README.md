@@ -16,7 +16,7 @@ France.
 
 *This project was developed using Python 3.6.2 and the supervised machine learning predictive model was built using
 [scikit-learn](http://scikit-learn.org/stable/).
-View the [Jupyter Notebook souce code](https://github.com/peternmai/Airbnb_Price_Prediction/blob/master/AirBnB%20Price%20Prediction.ipynb).*
+View the [source code](https://github.com/peternmai/Airbnb_Price_Prediction/blob/master/AirBnB%20Price%20Prediction.ipynb) on Jupyter Notebook.*
 
 **The full report can be viewed in this [GitHub Repository](https://github.com/peternmai/Airbnb_Price_Prediction/blob/master/AirBnB%20Price%20Per%20Night%20Prediction%20in%20Paris.pdf) or following this
 [link](https://github.com/peternmai/Airbnb_Price_Prediction/blob/master/AirBnB%20Price%20Per%20Night%20Prediction%20in%20Paris.pdf).**
