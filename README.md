@@ -24,4 +24,4 @@ View the [source code](https://github.com/peternmai/Airbnb_Price_Prediction/blob
 [![Report Preview](/doc/ReportPreview.png)](https://github.com/peternmai/Airbnb_Price_Prediction/blob/master/AirBnB%20Price%20Per%20Night%20Prediction%20in%20Paris.pdf)
 
 This was an open ended assignment for UCSD CSE 158 (Web Mining and Recommender
-Systems). This assignment was posted with permission of Professor McAuley.
+Systems) and was posted with permission from Professor McAuley.
