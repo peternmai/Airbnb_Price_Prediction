@@ -1,0 +1,5 @@
+# MacOS Icon File
+.DS_Store
+
+# Jupyter Notebook Checkpoint
+.ipynb_checkpoints
